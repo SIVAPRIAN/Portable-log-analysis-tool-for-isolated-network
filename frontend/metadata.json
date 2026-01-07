@@ -1,6 +1,0 @@
-
-{
-  "name": "SentinelLog Portable - Isolated Network SOC",
-  "description": "A portable, 100% offline log analysis tool designed for air-gapped networks. Features local forensic engine and heuristic normalization.",
-  "requestFramePermissions": []
-}
